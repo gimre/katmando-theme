@@ -1,0 +1,21 @@
+{
+  "name": "katmando",
+  "displayName": "katmando",
+  "description": "Minimal theme with (mostly) monochrome vibes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Katmando",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Katmando-color-theme.json"
+      }
+    ]
+  }
+}
